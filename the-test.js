@@ -1,3 +1,5 @@
+console.log("%c[!!!] PAYLOAD EJECUTADO DESDE GITHUB", "background: red; color: white; font-size: 20px;");
+
 (function() {
     // 1. Identificador único de sesión
     var uuid = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
